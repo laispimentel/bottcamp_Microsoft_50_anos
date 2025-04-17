@@ -3,6 +3,11 @@
 ## Descrição
 Este projeto contém um podcast que explora como aprender programação sem ter um computador, utilizando IA generativa para simular ambientes de desenvolvimento. É uma solução inovadora para quem não tem acesso a um computador, mas quer aprender a programar.
 
+## Tecnologias utilizadas
+- ChatGPT
+- COPILOT
+- AMAZON POLLY
+
 ## Podcast
 ### Título: Programando Sem Computador: A Magia da IA!
 
